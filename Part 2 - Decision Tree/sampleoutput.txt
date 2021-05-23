@@ -1,0 +1,133 @@
+Separating Feature: ASCITES
+       true node: 
+              Separating Feature: SPIDERS
+                     true node: 
+                            Separating Feature: VARICES
+                                   true node: 
+                                          Separating Feature: STEROID
+                                                 true node: 
+                                                        Most Likely Class: live
+                                                        Probability: 1.0
+                                                 false node: 
+                                                        Separating Feature: SPLEENPALPABLE
+                                                               true node: 
+                                                                      Separating Feature: FIRMLIVER
+                                                                             true node: 
+                                                                                    Most Likely Class: live
+                                                                                    Probability: 1.0
+                                                                             false node: 
+                                                                                    Separating Feature: BIGLIVER
+                                                                                           true node: 
+                                                                                                  Separating Feature: SGOT
+                                                                                                         true node: 
+                                                                                                                Most Likely Class: live
+                                                                                                                Probability: 1.0
+                                                                                                         false node: 
+                                                                                                                Separating Feature: FEMALE
+                                                                                                                       true node: 
+                                                                                                                              Most Likely Class: live
+                                                                                                                              Probability: 1.0
+                                                                                                                       false node: 
+                                                                                                                              Separating Feature: ANOREXIA
+                                                                                                                                     true node: 
+                                                                                                                                            Most Likely Class: die
+                                                                                                                                            Probability: 1.0
+                                                                                                                                     false node: 
+                                                                                                                                            Most Likely Class: live
+                                                                                                                                            Probability: 1.0
+
+
+
+                                                                                           false node: 
+                                                                                                  Most Likely Class: live
+                                                                                                  Probability: 1.0
+
+
+                                                               false node: 
+                                                                      Separating Feature: HISTOLOGY
+                                                                             true node: 
+                                                                                    Most Likely Class: die
+                                                                                    Probability: 1.0
+                                                                             false node: 
+                                                                                    Most Likely Class: live
+                                                                                    Probability: 1.0
+
+
+
+                                   false node: 
+                                          Most Likely Class: die
+                                          Probability: 1.0
+
+                     false node: 
+                            Separating Feature: BILIRUBIN
+                                   true node: 
+                                          Separating Feature: FATIGUE
+                                                 true node: 
+                                                        Separating Feature: AGE
+                                                               true node: 
+                                                                      Most Likely Class: live
+                                                                      Probability: 1.0
+                                                               false node: 
+                                                                      Most Likely Class: die
+                                                                      Probability: 1.0
+
+                                                 false node: 
+                                                        Separating Feature: ANTIVIRALS
+                                                               true node: 
+                                                                      Separating Feature: MALAISE
+                                                                             true node: 
+                                                                                    Most Likely Class: live
+                                                                                    Probability: 0.75
+                                                                             false node: 
+                                                                                    Most Likely Class: live
+                                                                                    Probability: 0.7
+
+                                                               false node: 
+                                                                      Most Likely Class: live
+                                                                      Probability: 1.0
+
+
+                                   false node: 
+                                          Most Likely Class: live
+                                          Probability: 0.8888888888888888
+
+
+       false node: 
+              Most Likely Class: die
+              Probability: 0.7333333333333333
+
+Classified 19 out of 25 instances correctly, an accuracy of 76.00%
+Accuracy (using hepatitis-training and hepatitis-test): 76.0%
+Baseline Accuracy (using hepatitis-training and hepatitis-test): 80.0%
+Running the 10-fold cross validation on the Hepatitis datasets
+Fold: 0
+Classified 23 out of 30 instances correctly, an accuracy of 76.67%
+Accuracy for fold 0: 76.67%
+Fold: 1
+Classified 25 out of 30 instances correctly, an accuracy of 83.33%
+Accuracy for fold 1: 83.33%
+Fold: 2
+Classified 26 out of 30 instances correctly, an accuracy of 86.67%
+Accuracy for fold 2: 86.67%
+Fold: 3
+Classified 26 out of 30 instances correctly, an accuracy of 86.67%
+Accuracy for fold 3: 86.67%
+Fold: 4
+Classified 28 out of 30 instances correctly, an accuracy of 93.33%
+Accuracy for fold 4: 93.33%
+Fold: 5
+Classified 24 out of 30 instances correctly, an accuracy of 80.00%
+Accuracy for fold 5: 80.00%
+Fold: 6
+Classified 28 out of 30 instances correctly, an accuracy of 93.33%
+Accuracy for fold 6: 93.33%
+Fold: 7
+Classified 27 out of 30 instances correctly, an accuracy of 90.00%
+Accuracy for fold 7: 90.00%
+Fold: 8
+Classified 24 out of 30 instances correctly, an accuracy of 80.00%
+Accuracy for fold 8: 80.00%
+Fold: 9
+Classified 24 out of 30 instances correctly, an accuracy of 80.00%
+Accuracy for fold 9: 80.00%
+Average accuracy across the 10-folds: 85.00%%  

@@ -1,0 +1,18 @@
+This folder contains my code for part 1 of the assignment, kNN.
+To run my code, simply follow these steps:
+
+- Navigate to the folder where the entire project is located using the command line
+- From this location use the following commands (right click in the console to paste):
+- cd 'COMP307 Assignment 1 Final/Part 1 - kNN/'
+- python Part1.py Data/wine-training Data/wine-test
+
+The code should run as expected and generate the output which is stored in sampleoutput.txt
+Note that the code uses k=1, but the code can be changed on line 93 in Part1.py to use any k
+
+Libraries used:
+- math
+- random
+- numpy as np
+- pandas as pd
+- sys
+To install these libraries if they are absent (shouldn't be needed) use the pip install command

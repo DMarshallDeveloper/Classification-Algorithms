@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="archive" name="DecisionTree.jar" />
+      <element id="archive" name="Part2DecisionTree.jar">
+        <element id="module-output" name="Part2DecisionTree" />
+      </element>
+    </root>
+  </artifact>
+</component>

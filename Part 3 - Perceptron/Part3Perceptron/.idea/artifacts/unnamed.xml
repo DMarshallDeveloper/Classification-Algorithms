@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="archive" name="Part3Perceptron.jar">
+        <element id="module-output" name="Part3Perceptron" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,525 @@
+Loaded 100 images from file
+Epoch 1
+Correct: 55 out of 100
+Epoch 2
+Correct: 76 out of 100
+Epoch 3
+Correct: 68 out of 100
+Epoch 4
+Correct: 73 out of 100
+Epoch 5
+Correct: 78 out of 100
+Epoch 6
+Correct: 76 out of 100
+Epoch 7
+Correct: 77 out of 100
+Epoch 8
+Correct: 74 out of 100
+Epoch 9
+Correct: 77 out of 100
+Epoch 10
+Correct: 79 out of 100
+Epoch 11
+Correct: 84 out of 100
+Epoch 12
+Correct: 85 out of 100
+Epoch 13
+Correct: 83 out of 100
+Epoch 14
+Correct: 83 out of 100
+Epoch 15
+Correct: 81 out of 100
+Epoch 16
+Correct: 84 out of 100
+Epoch 17
+Correct: 89 out of 100
+Epoch 18
+Correct: 82 out of 100
+Epoch 19
+Correct: 86 out of 100
+Epoch 20
+Correct: 88 out of 100
+Epoch 21
+Correct: 87 out of 100
+Epoch 22
+Correct: 86 out of 100
+Epoch 23
+Correct: 85 out of 100
+Epoch 24
+Correct: 87 out of 100
+Epoch 25
+Correct: 87 out of 100
+Epoch 26
+Correct: 81 out of 100
+Epoch 27
+Correct: 87 out of 100
+Epoch 28
+Correct: 86 out of 100
+Epoch 29
+Correct: 85 out of 100
+Epoch 30
+Correct: 86 out of 100
+Epoch 31
+Correct: 86 out of 100
+Epoch 32
+Correct: 90 out of 100
+Epoch 33
+Correct: 84 out of 100
+Epoch 34
+Correct: 87 out of 100
+Epoch 35
+Correct: 88 out of 100
+Epoch 36
+Correct: 89 out of 100
+Epoch 37
+Correct: 93 out of 100
+Epoch 38
+Correct: 87 out of 100
+Epoch 39
+Correct: 90 out of 100
+Epoch 40
+Correct: 89 out of 100
+Epoch 41
+Correct: 85 out of 100
+Epoch 42
+Correct: 92 out of 100
+Epoch 43
+Correct: 87 out of 100
+Epoch 44
+Correct: 86 out of 100
+Epoch 45
+Correct: 90 out of 100
+Epoch 46
+Correct: 88 out of 100
+Epoch 47
+Correct: 93 out of 100
+Epoch 48
+Correct: 90 out of 100
+Epoch 49
+Correct: 88 out of 100
+Epoch 50
+Correct: 89 out of 100
+Epoch 51
+Correct: 92 out of 100
+Epoch 52
+Correct: 85 out of 100
+Epoch 53
+Correct: 90 out of 100
+Epoch 54
+Correct: 89 out of 100
+Epoch 55
+Correct: 94 out of 100
+Epoch 56
+Correct: 89 out of 100
+Epoch 57
+Correct: 93 out of 100
+Epoch 58
+Correct: 95 out of 100
+Epoch 59
+Correct: 90 out of 100
+Epoch 60
+Correct: 92 out of 100
+Epoch 61
+Correct: 97 out of 100
+Epoch 62
+Correct: 92 out of 100
+Epoch 63
+Correct: 96 out of 100
+Epoch 64
+Correct: 98 out of 100
+Epoch 65
+Correct: 91 out of 100
+Epoch 66
+Correct: 94 out of 100
+Epoch 67
+Correct: 93 out of 100
+Epoch 68
+Correct: 89 out of 100
+Epoch 69
+Correct: 92 out of 100
+Epoch 70
+Correct: 90 out of 100
+Epoch 71
+Correct: 91 out of 100
+Epoch 72
+Correct: 92 out of 100
+Epoch 73
+Correct: 96 out of 100
+Epoch 74
+Correct: 94 out of 100
+Epoch 75
+Correct: 94 out of 100
+Epoch 76
+Correct: 93 out of 100
+Epoch 77
+Correct: 92 out of 100
+Epoch 78
+Correct: 92 out of 100
+Epoch 79
+Correct: 92 out of 100
+Epoch 80
+Correct: 94 out of 100
+Epoch 81
+Correct: 93 out of 100
+Epoch 82
+Correct: 94 out of 100
+Epoch 83
+Correct: 89 out of 100
+Epoch 84
+Correct: 93 out of 100
+Epoch 85
+Correct: 93 out of 100
+Epoch 86
+Correct: 92 out of 100
+Epoch 87
+Correct: 90 out of 100
+Epoch 88
+Correct: 93 out of 100
+Epoch 89
+Correct: 92 out of 100
+Epoch 90
+Correct: 92 out of 100
+Epoch 91
+Correct: 92 out of 100
+Epoch 92
+Correct: 94 out of 100
+Epoch 93
+Correct: 93 out of 100
+Epoch 94
+Correct: 96 out of 100
+Epoch 95
+Correct: 96 out of 100
+Epoch 96
+Correct: 98 out of 100
+Epoch 97
+Correct: 93 out of 100
+Epoch 98
+Correct: 94 out of 100
+Epoch 99
+Correct: 96 out of 100
+Epoch 100
+Correct: 94 out of 100
+
+Number of instances still incorrectly classified after 100 epochs: 6
+
+Feature 1
+Rows=[0, 7, 6]
+Columns=[5, 5, 5]
+Signs=[true, false, false]
+Weight=4.0
+
+Feature 2
+Rows=[5, 4, 5]
+Columns=[1, 8, 6]
+Signs=[false, false, false]
+Weight=5.0
+
+Feature 3
+Rows=[8, 5, 7]
+Columns=[7, 1, 0]
+Signs=[false, true, true]
+Weight=-7.0
+
+Feature 4
+Rows=[9, 4, 0]
+Columns=[4, 5, 1]
+Signs=[false, true, true]
+Weight=29.0
+
+Feature 5
+Rows=[6, 5, 5]
+Columns=[5, 0, 6]
+Signs=[false, true, true]
+Weight=-1.0
+
+Feature 6
+Rows=[1, 7, 7]
+Columns=[7, 8, 9]
+Signs=[false, false, false]
+Weight=-3.0
+
+Feature 7
+Rows=[9, 7, 1]
+Columns=[2, 5, 9]
+Signs=[true, true, true]
+Weight=19.0
+
+Feature 8
+Rows=[4, 5, 3]
+Columns=[9, 3, 5]
+Signs=[true, true, true]
+Weight=-21.0
+
+Feature 9
+Rows=[8, 3, 6]
+Columns=[0, 0, 9]
+Signs=[false, true, false]
+Weight=-36.0
+
+Feature 10
+Rows=[3, 8, 0]
+Columns=[0, 4, 3]
+Signs=[false, false, false]
+Weight=40.0
+
+Feature 11
+Rows=[6, 7, 7]
+Columns=[2, 6, 2]
+Signs=[true, false, true]
+Weight=-12.0
+
+Feature 12
+Rows=[3, 5, 6]
+Columns=[4, 4, 3]
+Signs=[false, false, true]
+Weight=-5.0
+
+Feature 13
+Rows=[7, 4, 4]
+Columns=[4, 4, 5]
+Signs=[false, false, false]
+Weight=-12.0
+
+Feature 14
+Rows=[7, 9, 1]
+Columns=[2, 4, 4]
+Signs=[true, false, false]
+Weight=13.0
+
+Feature 15
+Rows=[5, 7, 4]
+Columns=[6, 4, 1]
+Signs=[true, true, true]
+Weight=0.0
+
+Feature 16
+Rows=[7, 9, 6]
+Columns=[8, 6, 2]
+Signs=[true, false, true]
+Weight=19.0
+
+Feature 17
+Rows=[1, 4, 4]
+Columns=[7, 0, 8]
+Signs=[false, false, false]
+Weight=39.0
+
+Feature 18
+Rows=[0, 2, 7]
+Columns=[8, 9, 8]
+Signs=[true, false, true]
+Weight=-3.0
+
+Feature 19
+Rows=[1, 8, 3]
+Columns=[0, 4, 7]
+Signs=[true, false, true]
+Weight=-18.0
+
+Feature 20
+Rows=[7, 8, 0]
+Columns=[2, 5, 2]
+Signs=[false, false, true]
+Weight=-1.0
+
+Feature 21
+Rows=[8, 4, 3]
+Columns=[5, 4, 3]
+Signs=[false, true, true]
+Weight=-10.0
+
+Feature 22
+Rows=[8, 2, 9]
+Columns=[9, 4, 3]
+Signs=[false, true, true]
+Weight=-13.0
+
+Feature 23
+Rows=[4, 1, 1]
+Columns=[9, 2, 0]
+Signs=[true, true, true]
+Weight=0.0
+
+Feature 24
+Rows=[7, 4, 2]
+Columns=[4, 0, 3]
+Signs=[false, true, false]
+Weight=4.0
+
+Feature 25
+Rows=[6, 3, 8]
+Columns=[2, 8, 5]
+Signs=[false, true, false]
+Weight=26.0
+
+Feature 26
+Rows=[3, 8, 4]
+Columns=[9, 4, 8]
+Signs=[false, false, false]
+Weight=5.0
+
+Feature 27
+Rows=[0, 5, 9]
+Columns=[5, 8, 7]
+Signs=[false, true, false]
+Weight=-10.0
+
+Feature 28
+Rows=[4, 8, 0]
+Columns=[2, 6, 5]
+Signs=[true, true, false]
+Weight=-19.0
+
+Feature 29
+Rows=[2, 3, 4]
+Columns=[3, 3, 0]
+Signs=[true, false, true]
+Weight=-12.0
+
+Feature 30
+Rows=[3, 6, 5]
+Columns=[7, 4, 9]
+Signs=[false, true, true]
+Weight=2.0
+
+Feature 31
+Rows=[5, 4, 0]
+Columns=[9, 3, 9]
+Signs=[true, true, true]
+Weight=6.0
+
+Feature 32
+Rows=[9, 1, 8]
+Columns=[3, 8, 9]
+Signs=[false, false, true]
+Weight=-13.0
+
+Feature 33
+Rows=[6, 9, 5]
+Columns=[6, 9, 6]
+Signs=[false, false, true]
+Weight=-12.0
+
+Feature 34
+Rows=[6, 1, 4]
+Columns=[9, 2, 5]
+Signs=[true, false, true]
+Weight=-25.0
+
+Feature 35
+Rows=[6, 9, 2]
+Columns=[0, 2, 4]
+Signs=[false, true, true]
+Weight=2.0
+
+Feature 36
+Rows=[5, 0, 2]
+Columns=[9, 3, 7]
+Signs=[true, true, true]
+Weight=-5.0
+
+Feature 37
+Rows=[8, 6, 0]
+Columns=[0, 9, 4]
+Signs=[true, true, false]
+Weight=2.0
+
+Feature 38
+Rows=[3, 8, 2]
+Columns=[8, 5, 1]
+Signs=[false, false, true]
+Weight=17.0
+
+Feature 39
+Rows=[1, 4, 4]
+Columns=[3, 1, 5]
+Signs=[false, true, true]
+Weight=-32.0
+
+Feature 40
+Rows=[1, 3, 1]
+Columns=[5, 9, 2]
+Signs=[false, false, true]
+Weight=3.0
+
+Feature 41
+Rows=[0, 1, 7]
+Columns=[0, 8, 5]
+Signs=[true, true, false]
+Weight=26.0
+
+Feature 42
+Rows=[3, 8, 4]
+Columns=[5, 2, 8]
+Signs=[true, false, false]
+Weight=23.0
+
+Feature 43
+Rows=[4, 6, 6]
+Columns=[3, 2, 3]
+Signs=[true, false, true]
+Weight=-11.0
+
+Feature 44
+Rows=[9, 4, 4]
+Columns=[1, 7, 4]
+Signs=[true, false, true]
+Weight=15.0
+
+Feature 45
+Rows=[8, 7, 0]
+Columns=[3, 5, 6]
+Signs=[false, false, false]
+Weight=-9.0
+
+Feature 46
+Rows=[9, 7, 0]
+Columns=[2, 5, 9]
+Signs=[true, true, true]
+Weight=19.0
+
+Feature 47
+Rows=[9, 0, 9]
+Columns=[3, 6, 7]
+Signs=[true, true, false]
+Weight=9.0
+
+Feature 48
+Rows=[6, 9, 2]
+Columns=[9, 3, 3]
+Signs=[false, true, false]
+Weight=13.0
+
+Feature 49
+Rows=[1, 6, 0]
+Columns=[6, 3, 4]
+Signs=[false, false, true]
+Weight=-9.0
+
+Feature 50
+Rows=[3, 1, 1]
+Columns=[5, 3, 8]
+Signs=[true, true, false]
+Weight=-8.0
+
+
+Single run of the test dataset classification
+
+Images classified correctly: 10.0/13
+Accuracy on the test set: 76.92%
+
+
+Running the program 200 times (without test set)
+
+Number of runs where convergence was reached: 111 out of 200
+Average convergence epoch for runs which converged before 100 epochs: 34
+Earliest convergence epoch for runs which converged before 100 epochs: 13
+Latest convergence epoch for runs which converged before 100 epochs: 98
+
+
+200 runs of the test dataset classification
+
+Average accuracy on the test set: 75%
+Lowest accuracy on the test set: 46%
+Highest Accuracy on the test set: 100%
+
